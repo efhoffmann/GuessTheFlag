@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D478952C-A04E-47EC-99A4-03D720B06D72"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "218EE673-2684-48C9-B03D-F3C690501E5A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GuessTheFlag/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "218EE673-2684-48C9-B03D-F3C690501E5A - 9d558524755269ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of GuessTheFlag.ContentView.showingScore : Swift.Bool"
+                  moduleName = "GuessTheFlag"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eduardohoffmann/Library/Mobile%20Documents/com~apple~CloudDocs/bkjun22/Documentos/Desenvolvimento%20iOS/100DiasSwift/GuessTheFlag/GuessTheFlag/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "218EE673-2684-48C9-B03D-F3C690501E5A - 2e898de6ae2e6017"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GuessTheFlag.ContentView.init() -&gt; GuessTheFlag.ContentView"
+                  moduleName = "GuessTheFlag"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eduardohoffmann/Library/Mobile%20Documents/com~apple~CloudDocs/bkjun22/Documentos/Desenvolvimento%20iOS/100DiasSwift/GuessTheFlag/GuessTheFlag/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "218EE673-2684-48C9-B03D-F3C690501E5A - 1e9b5ca4dd985f20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GuessTheFlag.ContentView.init(countries: Swift.Array&lt;Swift.String&gt;, correctAnswer: Swift.Int) -&gt; GuessTheFlag.ContentView"
+                  moduleName = "GuessTheFlag"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eduardohoffmann/Library/Mobile%20Documents/com~apple~CloudDocs/bkjun22/Documentos/Desenvolvimento%20iOS/100DiasSwift/GuessTheFlag/GuessTheFlag/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "25">
+               </Location>
+               <Location
+                  uuid = "218EE673-2684-48C9-B03D-F3C690501E5A - 2e898de6ae2e6017"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GuessTheFlag.ContentView.init() -&gt; GuessTheFlag.ContentView"
+                  moduleName = "GuessTheFlag"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eduardohoffmann/Library/Mobile%20Documents/com~apple~CloudDocs/bkjun22/Documentos/Desenvolvimento%20iOS/100DiasSwift/GuessTheFlag/GuessTheFlag/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
